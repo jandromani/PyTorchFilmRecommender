@@ -1,3 +1,5 @@
+Curso: LinuxFoundationX: PyTorch and Deep Learning for Decision Makers
+
 Recomendador de películas personalizado basado en PyTorch
 
 Este proyecto implementa un sistema de recomendación personalizado basado en PyTorch para películas. El sistema utiliza un modelo de factorización matricial para predecir las calificaciones que un usuario le daría a una película determinada.
